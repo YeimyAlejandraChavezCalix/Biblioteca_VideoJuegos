@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/BibliotecaServlet.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/BibliotecaServlet.java" />
+              <option name="updatedContent" value="// Archivo archivado: BibliotecaServlet.java&#10;// Este archivo fue movido a 'archivos_inactivos' porque no contiene código fuente útil en el proyecto actual.&#10;// Si lo necesitas de nuevo, recupéralo desde la carpeta 'archivos_inactivos'.&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/LoginServlet.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/LoginServlet.java" />
+              <option name="updatedContent" value="// Archivo archivado: LoginServlet.java&#10;// Este archivo fue movido a 'archivos_inactivos' porque no contiene código fuente útil en el proyecto actual.&#10;// Si lo necesitas de nuevo, recupéralo desde la carpeta 'archivos_inactivos'.&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/VideoJuego.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/VideoJuego.java" />
+              <option name="updatedContent" value="// Archivo archivado: VideoJuego.java&#10;// Este archivo fue movido a 'archivos_inactivos' porque el archivo original en la raíz del proyecto estaba vacío.&#10;// Si necesitas restaurarlo, recupéralo desde esta carpeta.&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/BibliotecaServlet.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/BibliotecaServlet.java" />
+              <option name="updatedContent" value="// Este archivo fue archivado en 'archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/BibliotecaServlet.java'&#13;&#10;// Si necesitas recuperarlo, copia desde esa carpeta.&#13;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/LoginServlet.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/LoginServlet.java" />
+              <option name="updatedContent" value="// Este archivo fue archivado en 'archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/LoginServlet.java'&#13;&#10;// Si necesitas recuperarlo, copia desde esa carpeta.&#13;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/VideoJuego.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/main/java/hn/uth/biblioteca_videojuegos/VideoJuego.java" />
+              <option name="updatedContent" value="// Este archivo fue archivado en 'archivos_inactivos/src/main/java/hn/uth/biblioteca_videojuegos/VideoJuego.java'&#13;&#10;// El archivo original estaba vacío; si necesitas la clase VideoJuego completa, recrea el modelo en este archivo.&#13;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
