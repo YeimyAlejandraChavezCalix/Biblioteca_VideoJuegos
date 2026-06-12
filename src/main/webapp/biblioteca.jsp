@@ -85,7 +85,7 @@
 <div class="container">
     <div class="header">
         <h1 class="titulo-principal">Biblioteca de Videojuegos</h1>
-        <h2 class="subtitulo">Integrantes: Grosbin Jafeth Gutierrez Palma (202420130052) | Yeimy Alejandra Chavez Calix (202410080010)</h2>
+        <h2 class="subtitulo">Integrantes: Grosbin Jafeth Gutierrez Palma (202420130052) | Yeimy Alejandra Chavez Calix (202410080010) | Carlos David Cruz Romero 202320060194</h2>
 
         <div class="info-usuario">
             <span class="usuario-nombre">Bienvenido, <%= session.getAttribute("usuario") %></span>
