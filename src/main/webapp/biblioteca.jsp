@@ -22,7 +22,7 @@
 
     if(usuario != null) {
 
-        if("admin".equals(usuario) && "1234".equals(password)) {
+        if("Grosbin".equals(usuario) && "1234".equals(password)) {
             session.setAttribute("usuario", usuario);
         } else {
             response.sendRedirect("login.jsp?error=1");
